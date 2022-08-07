@@ -1,0 +1,231 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:Article rdf:about="#item_7">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2169-3536"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Al-Dhaqm</foaf:surname>
+                        <foaf:givenName>Arafat</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Razak</foaf:surname>
+                        <foaf:givenName>Shukor Abd</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ikuesan</foaf:surname>
+                        <foaf:givenName>Richard Adeyemi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kebande</foaf:surname>
+                        <foaf:givenName>Victor R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Siddique</foaf:surname>
+                        <foaf:givenName>Kamran</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_8"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Analytical models</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>digital forensics</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Digital forensics</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>investigation process model</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Mobile forensics</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Smart phones</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Tools</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Unified modeling language</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>A Review of Mobile Forensic Investigation Process Models</dc:title>
+        <dcterms:abstract>Mobile Forensics (MF) field uses prescribed scientific approaches with a focus on recovering Potential Digital Evidence (PDE) from mobile devices leveraging forensic techniques. Consequently, increased proliferation, mobile-based services, and the need for new requirements have led to the development of the MF field, which has in the recent past become an area of importance. In this article, the authors take a step to conduct a review on Mobile Forensics Investigation Process Models (MFIPMs) as a step towards uncovering the MF transitions as well as identifying open and future challenges. Based on the study conducted in this article, a review of the literature revealed that there are a few MFIPMs that are designed for solving certain mobile scenarios, with a variety of concepts, investigation processes, activities, and tasks. A total of 100 MFIPMs were reviewed, to present an inclusive and up-to-date background of MFIPMs. Also, this study proposes a Harmonized Mobile Forensic Investigation Process Model (HMFIPM) for the MF field to unify and structure whole redundant investigation processes of the MF field. The paper also goes the extra mile to discuss the state of the art of mobile forensic tools, open and future challenges from a generic standpoint. The results of this study find direct relevance to forensic practitioners and researchers who could leverage the comprehensiveness of the developed processes for investigation.</dcterms:abstract>
+        <dc:date>2020</dc:date>
+        <z:libraryCatalog>IEEE Xplore</z:libraryCatalog>
+        <dc:description>Conference Name: IEEE Access</dc:description>
+        <bib:pages>173359-173375</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2169-3536">
+        <prism:volume>8</prism:volume>
+        <dc:title>IEEE Access</dc:title>
+        <dc:identifier>DOI 10.1109/ACCESS.2020.3014615</dc:identifier>
+        <dc:identifier>ISSN 2169-3536</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_8">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/8/Al-Dhaqm et al. - 2020 - A Review of Mobile Forensic Investigation Process .pdf"/>
+        <dc:title>IEEE Xplore Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/ielx7/6287639/8948470/09160916.pdf?tp=&amp;arnumber=9160916&amp;isnumber=8948470&amp;ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2RvY3VtZW50LzkxNjA5MTY=</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-07-26 17:28:52</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="#item_9">
+        <z:itemType>book</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shukla</foaf:surname>
+                        <foaf:givenName>Utkarsha</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mandal</foaf:surname>
+                        <foaf:givenName>Bishwas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kasula</foaf:surname>
+                        <foaf:givenName>Kiran</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_10"/>
+        <dc:title>Perlustration on Mobile Forensics Tools</dc:title>
+        <dcterms:abstract>Nowadays many people store more information in cellphones rather than do on their computer which leads to the increase of crimes taking place in mobile. This is also because of extensive use of mobile devices. People refer to store more information in mobile than in computer. Therefore,scope of forensics in mobile has increased in last few years as compared to computers. In this paper , we have carried out a survey on tools and techniques which are in practice for mobile forensics. The survey is the amalgamation of the in practice technical methods and discussion of some of the tools for specific operating systems. Some challenges faced by practitioners while performing forensics has also been enlisted.</dcterms:abstract>
+        <dc:date>2022-04-07</dc:date>
+        <z:libraryCatalog>ResearchGate</z:libraryCatalog>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_10">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>ResearchGate Link</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/publication/359864887_Perlustration_on_Mobile_Forensics_Tools</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-07-26 17:37:35</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:BookSection rdf:about="urn:isbn:978-3-319-73449-1">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+               <dc:identifier>ISBN 978-3-319-73449-1</dc:identifier>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Alhassan</foaf:surname>
+                        <foaf:givenName>John</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Oguntoye</foaf:surname>
+                        <foaf:givenName>R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Misra</foaf:surname>
+                        <foaf:givenName>Sanjay</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Adewumi</foaf:surname>
+                        <foaf:givenName>Adewole</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Maskeliunas</foaf:surname>
+                        <foaf:givenName>Rytis</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Damaševičius</foaf:surname>
+                        <foaf:givenName>Robertas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_12"/>
+        <link:link rdf:resource="#item_13"/>
+        <dc:title>Comparative Evaluation of Mobile Forensic Tools</dc:title>
+        <dcterms:abstract>The rapid rise in the technology today has brought to limelight mobile devices which are now being used as a tool to commit crime. Therefore, proper steps need to be ensured for Confidentiality, Integrity, Authenticity and legal acquisition of any form of digital evidence from the mobile devices. This study evaluates some mobile forensic tools that were developed mainly for mobile devices memory and SIM cards. An experiment was designed with five android phones with different Operating System. Four tools were used to find out the capability and efficiency of the tools when used on the sampled phones. This would help the forensic investigator to know the type of tools that will be suitable for each phone to be investigated for acquiring digital evidence. The evaluation result showed that AccessData FTK imager and Paraben device seizure performs better than Encase and Mobiledit. The experimental result shows that, Encase could detect the unallocated space on the mobile deice but could retrieve an deleted data.</dcterms:abstract>
+        <dc:date>2018-01-05</dc:date>
+        <z:libraryCatalog>ResearchGate</z:libraryCatalog>
+        <dc:description>DOI: 10.1007/978-3-319-73450-7_11</dc:description>
+        <bib:pages>105-114</bib:pages>
+    </bib:BookSection>
+    <z:Attachment rdf:about="#item_12">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/12/Alhassan et al. - 2018 - Comparative Evaluation of Mobile Forensic Tools.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/profile/Rytis-Maskeliunas/publication/322250449_Comparative_Evaluation_of_Mobile_Forensic_Tools/links/5a5379de0f7e9bbc1056a3ff/Comparative-Evaluation-of-Mobile-Forensic-Tools.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-07-26 17:40:48</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_13">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>ResearchGate Link</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/publication/322250449_Comparative_Evaluation_of_Mobile_Forensic_Tools</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-07-26 17:40:48</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+</rdf:RDF>

@@ -1,0 +1,554 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:Article rdf:about="http://www.ijcee.org/index.php?m=content&amp;c=index&amp;a=show&amp;catid=55&amp;id=860">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:17938163"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Al-Hadadi</foaf:surname>
+                        <foaf:givenName>Mubarak</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>AlShidhani</foaf:surname>
+                        <foaf:givenName>Ali</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4"/>
+        <dc:title>Smartphone Forensics Analysis: A Case Study</dc:title>
+        <dc:date>2013</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Smartphone Forensics Analysis</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.ijcee.org/index.php?m=content&amp;c=index&amp;a=show&amp;catid=55&amp;id=860</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-08-06 14:54:57</dcterms:dateSubmitted>
+        <bib:pages>576-580</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:17938163">
+        <dc:title>International Journal of Computer and Electrical Engineering</dc:title>
+        <dc:identifier>DOI 10.7763/IJCEE.2013.V5.776</dc:identifier>
+        <dcterms:alternative>IJCEE</dcterms:alternative>
+        <dc:identifier>ISSN 17938163</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_4">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/4/Al-Hadadi and AlShidhani - 2013 - Smartphone Forensics Analysis A Case Study.pdf"/>
+        <dc:title>Al-Hadadi and AlShidhani - 2013 - Smartphone Forensics Analysis A Case Study.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://ijcee.org/papers/776-S0005.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-08-06 14:54:53</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_6">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2169-3536"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Al-Dhaqm</foaf:surname>
+                        <foaf:givenName>Arafat</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Razak</foaf:surname>
+                        <foaf:givenName>Shukor Abd</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ikuesan</foaf:surname>
+                        <foaf:givenName>Richard Adeyemi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kebande</foaf:surname>
+                        <foaf:givenName>Victor R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Siddique</foaf:surname>
+                        <foaf:givenName>Kamran</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_8"/>
+        <link:link rdf:resource="#item_7"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Analytical models</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>digital forensics</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Digital forensics</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>investigation process model</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Mobile forensics</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Smart phones</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Tools</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Unified modeling language</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>A Review of Mobile Forensic Investigation Process Models</dc:title>
+        <dcterms:abstract>Mobile Forensics (MF) field uses prescribed scientific approaches with a focus on recovering Potential Digital Evidence (PDE) from mobile devices leveraging forensic techniques. Consequently, increased proliferation, mobile-based services, and the need for new requirements have led to the development of the MF field, which has in the recent past become an area of importance. In this article, the authors take a step to conduct a review on Mobile Forensics Investigation Process Models (MFIPMs) as a step towards uncovering the MF transitions as well as identifying open and future challenges. Based on the study conducted in this article, a review of the literature revealed that there are a few MFIPMs that are designed for solving certain mobile scenarios, with a variety of concepts, investigation processes, activities, and tasks. A total of 100 MFIPMs were reviewed, to present an inclusive and up-to-date background of MFIPMs. Also, this study proposes a Harmonized Mobile Forensic Investigation Process Model (HMFIPM) for the MF field to unify and structure whole redundant investigation processes of the MF field. The paper also goes the extra mile to discuss the state of the art of mobile forensic tools, open and future challenges from a generic standpoint. The results of this study find direct relevance to forensic practitioners and researchers who could leverage the comprehensiveness of the developed processes for investigation.</dcterms:abstract>
+        <dc:date>2020</dc:date>
+        <z:libraryCatalog>IEEE Xplore</z:libraryCatalog>
+        <dc:description>Conference Name: IEEE Access</dc:description>
+        <bib:pages>173359-173375</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2169-3536">
+        <prism:volume>8</prism:volume>
+        <dc:title>IEEE Access</dc:title>
+        <dc:identifier>DOI 10.1109/ACCESS.2020.3014615</dc:identifier>
+        <dc:identifier>ISSN 2169-3536</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_8">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/8/9160916.html"/>
+        <dc:title>IEEE Xplore Abstract Record</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/document/9160916/?arnumber=9160916</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-08-06 15:40:28</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_7">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/7/Al-Dhaqm et al. - 2020 - A Review of Mobile Forensic Investigation Process .pdf"/>
+        <dc:title>IEEE Xplore Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/ielx7/6287639/8948470/09160916.pdf?tp=&amp;arnumber=9160916&amp;isnumber=8948470&amp;ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL3N0YW1wL3N0YW1wLmpzcD90cD0mYXJudW1iZXI9OTE2MDkxNg==</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-08-06 15:40:16</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://journal.uad.ac.id/index.php/JITEKI/article/view/22381">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2338-3070,%202338-3070"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Leonardo</foaf:surname>
+                        <foaf:givenName>Aljo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Indrayani</foaf:surname>
+                        <foaf:givenName>Rini</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_9"/>
+        <dc:title>The Comparison Performance of Digital Forensic Tools Using Additional Root Access Options</dc:title>
+        <dcterms:abstract>This research used MiChat and SayHi as materials for forensic investigations using three different tools, namely MOBILedit, Magnet Axiom, and Belkasoft. These three tools will show each performance in the forensic process. We also added a rooting process as an option if data cannot be extracted optimally even when using these three applications. The result of this study shows that the cases studied with processes without root access and with root access have the aim of complementing each other in obtaining evidence. So that these two processes complement each other's shortcomings. The main contribution of this research is a recommendation of a tool based on the best performance shown during the forensic process with rooting access and without rooting access. Based on the comparison, Magnet Axiom is superior with a total of 34 items of data found without root access, while MOBILedit is 30 items and 30 items for Belkasoft. While comparison using root access, Magnet Axiom and MOBILedit are superiors with a total of 36 items found in Magnet Axiom without root access, while MOBILedit is 36 items and 33 items for Belkasoft. Based on the test results, it can be concluded that the recommended tool according to the used scenario is Magnet Axiom.</dcterms:abstract>
+        <dc:date>2022-01-19</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://journal.uad.ac.id/index.php/JITEKI/article/view/22381</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-08-06 15:45:06</dcterms:dateSubmitted>
+        <bib:pages>512</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2338-3070,%202338-3070">
+        <prism:volume>7</prism:volume>
+        <dc:title>Jurnal Ilmiah Teknik Elektro Komputer dan Informatika</dc:title>
+        <dc:identifier>DOI 10.26555/jiteki.v7i3.22381</dc:identifier>
+        <prism:number>3</prism:number>
+        <dc:identifier>ISSN 2338-3070, 2338-3070</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_9">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/9/Leonardo and Indrayani - 2022 - The Comparison Performance of Digital Forensic Too.pdf"/>
+        <dc:title>Leonardo and Indrayani - 2022 - The Comparison Performance of Digital Forensic Too.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://eprints.uad.ac.id/31980/1/15%20The%20Comparison%20Performance%20of%20Digital%20Forensic%20Tools%20Using%20Additional%20Root%20Access%20Options.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-08-06 15:45:04</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_11">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>118</prism:volume>
+                <dc:title>International Journal of Computer Applications</dc:title>
+                <dc:identifier>DOI 10.5120/20827-3476</dc:identifier>
+                <dcterms:alternative>International Journal of Computer Applications</dcterms:alternative>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lohiya</foaf:surname>
+                        <foaf:givenName>Ritika</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>John</foaf:surname>
+                        <foaf:givenName>Priya</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shah</foaf:surname>
+                        <foaf:givenName>Pooja</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_12"/>
+        <link:link rdf:resource="#item_13"/>
+        <dc:title>Survey on Mobile Forensics</dc:title>
+        <dcterms:abstract>With the continued growth of smart phone market, the
+probability of their use in criminal activities has continued to
+increase. Mobile phone nowadays comes with a wide variety
+of software application, new technologies and operating
+systems. Therefore it becomes complicated for a forensic
+investigator to examine the evidence from a mobile phone. A
+proper knowledge of forensic tools and their features is
+required to collect relevant information. This paper discusses
+about the mobile device characteristics, the steps for mobile
+forensic investigation and different tools for mobile forensics.
+The last section of the paper presents the experimental results
+of the tools Mobiledit Lite and Autopsy 3.1.2.</dcterms:abstract>
+        <dc:date>2015-05-20</dc:date>
+        <z:libraryCatalog>ResearchGate</z:libraryCatalog>
+        <bib:pages>6-11</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_12">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/12/Lohiya et al. - 2015 - Survey on Mobile Forensics.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/profile/Priya-John-6/publication/277907742_Survey_on_Mobile_Forensics/links/5ae1cc970f7e9b285948a9e0/Survey-on-Mobile-Forensics.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-08-06 15:54:21</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_13">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>ResearchGate Link</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/publication/277907742_Survey_on_Mobile_Forensics</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-08-06 15:54:21</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_18">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>10</prism:volume>
+                <dc:title>IEEE Access</dc:title>
+                <dc:identifier>DOI 10.1109/ACCESS.2022.3142508</dc:identifier>
+                <dc:identifier>ISSN 2169-3536</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Javed</foaf:surname>
+                        <foaf:givenName>Abdul Rehman</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ahmed</foaf:surname>
+                        <foaf:givenName>Waqas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Alazab</foaf:surname>
+                        <foaf:givenName>Mamoun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jalil</foaf:surname>
+                        <foaf:givenName>Zunera</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kifayat</foaf:surname>
+                        <foaf:givenName>Kashif</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gadekallu</foaf:surname>
+                        <foaf:givenName>Thippa Reddy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_20"/>
+        <link:link rdf:resource="#item_19"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Cloud computing</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Computer crime</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>computer forensics</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>cybercrime</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>cybersecurity</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>digital forensics</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Digital forensics</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Electronic mail</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Forensics</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>investigation</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Licenses</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Operating systems</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>state-of-the-art</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Survey</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>tools</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>A Comprehensive Survey on Computer Forensics: State-of-the-Art, Tools, Techniques, Challenges, and Future Directions</dc:title>
+        <dcterms:abstract>With the alarmingly increasing rate of cybercrimes worldwide, there is a dire need to combat cybercrimes timely and effectively. Cyberattacks on computing machines leave certain artifacts on target device storage that can reveal the identity and behavior of cyber-criminals if processed and analyzed intelligently. Forensic agencies and law enforcement departments use several digital forensic toolkits, both commercial and open-source, to examine digital evidence. The proposed research survey focuses on identifying the current state-of-the-art digital forensics concepts in existing research, sheds light on research gaps, presents a detailed introduction of different computer forensic domains and forensic toolkits used for computer forensics in the current era. The proposed survey also presents a comparative analysis based on the tool’s characteristics to facilitate investigators in tool selection during the forensics process. Finally, the proposed survey identifies and derives current challenges and future research directions in computer forensics.</dcterms:abstract>
+        <dc:date>2022</dc:date>
+        <z:shortTitle>A Comprehensive Survey on Computer Forensics</z:shortTitle>
+        <z:libraryCatalog>IEEE Xplore</z:libraryCatalog>
+        <dc:description>Conference Name: IEEE Access</dc:description>
+        <bib:pages>11065-11089</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_20">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/20/9678340.html"/>
+        <dc:title>IEEE Xplore Abstract Record</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/abstract/document/9678340</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-08-06 18:57:30</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_19">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/19/Javed et al. - 2022 - A Comprehensive Survey on Computer Forensics Stat.pdf"/>
+        <dc:title>IEEE Xplore Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/ielx7/6287639/9668973/09678340.pdf?tp=&amp;arnumber=9678340&amp;isnumber=9668973&amp;ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2Fic3RyYWN0L2RvY3VtZW50Lzk2NzgzNDA=</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-08-06 18:57:22</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="#item_21">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>2022 45th Jubilee International Convention on Information, Communication and Electronic Technology (MIPRO)</dc:title>
+                <dc:identifier>DOI 10.23919/MIPRO55190.2022.9803540</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Delija</foaf:surname>
+                        <foaf:givenName>D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sudec</foaf:surname>
+                        <foaf:givenName>D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sirovatka</foaf:surname>
+                        <foaf:givenName>G.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Žagar</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_23"/>
+        <link:link rdf:resource="#item_22"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Android 11</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Autopsy</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Data acquisition</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>forensic tools</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Forensics</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>mobile forensics</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Mobile handsets</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Operating systems</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Reliability</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>How to do a forensic analysis of Android 11 artifacts</dc:title>
+        <dcterms:abstract>This paper compares the results obtained using several forensic tools on various Android 11 operating system devices. New and old functionalities of Andriod 11 store a vast volume of raw data and important forensic artifacts on mobile devices. The amount and type of data found on mobile devices demand further development of mobile forensics procedures. This development should be based on the streamlined procedures for the existing forensic to obtain more useful forensic artifacts. This means not using only one forensic tool, but combining results from multiple forensic tools in the analysis phase, after the data acquisition from Android 11 devices. The used forensic tools are Belkasoft Evidence Center X, Autopsy, and ALEAPP, with results presented and compared. The collected digital evidence shows the combined results are more substantial than the sum of particular ones</dcterms:abstract>
+        <dc:date>2022-05</dc:date>
+        <z:libraryCatalog>IEEE Xplore</z:libraryCatalog>
+        <dc:description>ISSN: 2623-8764</dc:description>
+        <bib:pages>1042-1047</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2022 45th Jubilee International Convention on Information, Communication and Electronic Technology (MIPRO)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_23">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/23/9803540.html"/>
+        <dc:title>IEEE Xplore Abstract Record</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/abstract/document/9803540?casa_token=YcqTqPMwLaYAAAAA:tdIIhHZ1kdQ7wzzumzAX2K8xZ0OlQpVQrC4XRbmww7NOhdnk-uhBss0Il7uglzpNnVDRLq7r</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-08-06 18:59:13</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_22">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/22/Delija et al. - 2022 - How to do a forensic analysis of Android 11 artifa.pdf"/>
+        <dc:title>IEEE Xplore Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&amp;arnumber=9803540&amp;ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2Fic3RyYWN0L2RvY3VtZW50Lzk4MDM1NDA/Y2FzYV90b2tlbj1ZY3FUcVBNd0xhWUFBQUFBOnRkSUloSFoxa2RRN3d6enVtekFYMks4eFowT2xRcFZRckM0WFJibXd3N05PaGRuay11aEJzczBJbDd1Z2x6cE5uVkRSTHE3cg==</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-08-06 18:59:07</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+</rdf:RDF>
